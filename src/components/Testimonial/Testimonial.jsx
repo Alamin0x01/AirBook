@@ -7,7 +7,7 @@ const Testimonial = () => {
   return (
     <>
       <div className="mt-10 lg:max-w-6xl lg:mx-auto p-2">
-        <h2 className="text-3xl font-semibold">Testimonials</h2>
+        <h2 className="text-3xl font-semibold text-black">Testimonials</h2>
       </div>
       <div className="mt-5 p-2 ">
         <div className=" py-14 bg-[#006CE4] flex gap-4">
